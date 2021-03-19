@@ -2,8 +2,8 @@
 
 ---
 
-## Javascript Stack
-**[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
+## Javascript Stack and Python for Science
+**[freeCodeCamp](https://www.freecodecamp.com/)**
 
 [<img src="https://duckduckgo.com/i/b26576a1.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)
 
