@@ -5,7 +5,7 @@
 ## Javascript Stack
 **[freeCodeCamp](https://www.freecodecamp.com/) is probably the best choice.**
 
-[<img src="https://freecodecamp.github.io/design-style-guide/downloads/freeCodeCamp-alternative.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)
+[<img src="https://duckduckgo.com/i/b26576a1.png" width="450" alt="freeCodeCamp">](https://www.freecodecamp.com/)
 
 <br>
 
@@ -22,9 +22,9 @@
 
 ## Code Challenges and Puzzles
 
-* [HackerRank](https://www.hackerrank.com/domains/ruby)
+* [HackerRank](https://www.hackerrank.com/)
 * [CodeWars](https://www.codewars.com/)
-* [Exercisme.io](http://exercism.io/languages/ruby)
+* [Exercisme.io](http://exercism.io/)
 
 ---
 
